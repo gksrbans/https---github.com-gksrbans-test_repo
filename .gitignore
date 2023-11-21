@@ -15,7 +15,7 @@ __pycache__/
 env
 venv
 .venv
-
+test
 # other
 .DS_Store
 
